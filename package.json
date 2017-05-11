@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React Tutorial Udemy.com course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srpeltz/react_tutorial.git"
+  },
+  "author": "Steven Peltzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srpeltz/react_tutorial/issues"
+  },
+  "homepage": "https://github.com/srpeltz/react_tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
